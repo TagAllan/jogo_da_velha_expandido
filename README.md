@@ -22,7 +22,7 @@ O **Ultimate Tic Tac Toe** (também conhecido como Jogo da Velha Expandido) é u
    - Vença um quadrante pequeno completando uma linha de 3 (X ou O)
    - Vença o jogo grande completando 3 quadrantes em linha
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -140,8 +140,7 @@ Allan
 - [ ] Modo online/multiplayer
 - [ ] Animações de vitória
 
----
-
  Se você gostou do projeto, deixe uma estrela!
 
-
+# jogo_da_velha_expandido
+Ultimate Tic Tac Toe em C# - Projeto de aprendizado em programação orientada a objetos, manipulação de arrays e lógica de jogos no .NET 8.0
